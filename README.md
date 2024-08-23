@@ -1,4 +1,4 @@
-RFM and CAC Integrated Dashboard for Optimized Customer Strategies
+### RFM and CAC Integrated Dashboard for Optimized Customer Strategies
 This project develops a comprehensive dashboard for customer segmentation and marketing analysis using RFM (Recency, Frequency, Monetary) and Customer Acquisition Cost (CAC) analyses. The dashboard offers valuable insights into customer behavior and the effectiveness of marketing strategies.
 
 ### RFM Analysis
